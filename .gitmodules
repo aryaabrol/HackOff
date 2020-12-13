@@ -1,0 +1,3 @@
+[submodule "chatbot/consult"]
+	path = chatbot/consult
+	url = https://github.com/aryaabrol/blood-db.git
